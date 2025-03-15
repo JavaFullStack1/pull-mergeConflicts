@@ -11,6 +11,8 @@ public class Test6Application {
 		int x = 200;
 		String name = "Santosh";
 		int y = 500;
+    boolean isPresent = True
+		
 		SpringApplication.run(Test6Application.class, args);
 	}
 
