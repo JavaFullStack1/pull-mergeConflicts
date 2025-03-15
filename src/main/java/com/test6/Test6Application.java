@@ -10,6 +10,7 @@ public class Test6Application {
 		
 		int x = 200;
 		String name = "Santosh";
+		int y = 500;
 		SpringApplication.run(Test6Application.class, args);
 	}
 
